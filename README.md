@@ -1,1 +1,2 @@
-# calc2
+# calculator
+Created with CodeSandbox
